@@ -31,7 +31,7 @@
 <br />
 
 ## 
-## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/black.png" width="35" id="black">黑魔法：
+## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/black.png" width="35" id="black" style="margin-right:5px; vertical-align:middle;">黑魔法：
 - [使用atob解码utf-8字符](http://levy.work/2017-03-24-black-magic-js-atob-with-utf8/)
 - [调试黑魔法](<https://juejin.im/post/5c9bce616fb9a070ac66b700>)
 - [JS黑魔法之this, setTimeout/setInterval, arguments](https://www.cnblogs.com/joyeecheung/p/4018212.html)
@@ -44,7 +44,7 @@
 - [Webpack 黑魔法之 CSS Entry](https://zhuanlan.zhihu.com/p/40444817)
 
 
-## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/blue.png" width="35" id="blue">蓝魔法：
+## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/blue.png" width="35" id="blue" style="margin-right:5px; vertical-align:middle;">蓝魔法：
 - [使用angular-messages进行表单验证](http://www.lingdublog.cc/384.html)
 - [【webpack 黑魔法】问题： vue-loader.conf.js 配置的 postcss 对外置 less 文件无效](https://zhuanlan.zhihu.com/p/28926961)
 - [Vue中你不知道但却很实用的黑科技](https://segmentfault.com/a/1190000007694540)
@@ -56,7 +56,7 @@
 - [Vue的奇技淫巧](https://blog.asaki.me/2018/04/09/)
 - [Redux 的黑魔法](https://my.oschina.net/yinyongcom666/blog/648423)
 
-## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/green.png" width="35" id="green">绿魔法：
+## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/green.png" width="35" id="green"  style="margin-right:5px; vertical-align:middle;">绿魔法：
 
 - [node黑魔法使用js打开终端并运行命令](https://zzhgithub.github.io/2017/05/02/node%E9%BB%91%E9%AD%94%E6%B3%95%E4%BD%BF%E7%94%A8js%E6%89%93%E5%BC%80%E7%BB%88%E7%AB%AF%E5%B9%B6%E8%BF%90%E8%A1%8C%E5%91%BD%E4%BB%A4/)
 - [NodeJS之异常处理](https://www.cnblogs.com/tugenhua0707/p/10597568.html)
@@ -69,7 +69,7 @@
 - [Nodejs技巧之----Joi数据校验](https://www.jianshu.com/p/e6e277c1fda2)
 - [node.js cluster多进程、负载均衡和平滑重启](https://www.cnblogs.com/kenkofox/p/5431643.html)
 
-## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/red.png" width="35" id="red">红魔法：
+## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/red.png" width="35" id="red" style="margin-right:5px; vertical-align:middle;">红魔法：
 
 - [远程控制地址栏](https://mp.weixin.qq.com/s/T4jQUdS-rar7hr2EWilJrw?)
 - [前端黑魔法：使用JS检测远程用户的杀毒软件](http://docs.ioin.in/writeup/www.mottoin.com/_91264_html/index.html)
@@ -82,7 +82,7 @@
 - [黑魔法：断网离线也能看的页面](http://bestxtech.com/?p=99)
 - [关于Web安全的三个攻防姿势](http://blog.nsfocus.net/offensive-defensive-stances-web-security/)
 
-## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/purple.png" width="35" id="purple">紫魔法：
+## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/purple.png" width="35" id="purple" style="margin-right:5px; vertical-align:middle;">紫魔法：
 - [Git Merge时“交换文件.MERGE_MSG.swp已经存在”的问题](https://blog.csdn.net/sinat_33087001/article/details/80935285)
 - [gitignore 不起作用的解决办法](https://www.cnblogs.com/sloong/p/5523244.html)
 - [移动端调试工具-Debuggap](https://www.cnblogs.com/yzg1/p/5160594.html)
@@ -94,7 +94,7 @@
 - [Git多项目管理](https://www.jianshu.com/p/284ded3d191b)
 - [Web调试工具Charles](https://juejin.im/post/5a3b6ab06fb9a0452405fffa#heading-1)
 
-## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/yellow.png" width="35" id="yellow">黄魔法：
+## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/yellow.png" width="35" id="yellow" style="margin-right:5px; vertical-align:middle;">黄魔法：
 
 - [Dirty Tricks From The Dark Corners Of Front-End](https://www.w3cplus.com/css/dirty-tricks-dark-corners-front-end-pt1.html)
 - [断网离线也能看的页面](<https://learnku.com/articles/4713/black-magic-a-broken-web-offline-view>)
@@ -107,7 +107,7 @@
 - [iframe黑魔法](https://erasermeng.github.io/2016/10/09/iframe%E9%BB%91%E9%AD%94%E6%B3%95/)
 - [HTML5中的Web Notification桌面通知](https://www.cnblogs.com/shihaiming/p/6277505.html)
 
-## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/orange.png" width="35" id="orange">橙魔法：
+## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/orange.png" width="35" id="orange" style="margin-right:5px; vertical-align:middle;">橙魔法：
 
 - [CTF之PHP黑魔法总结](<http://www.am0s.com/ctf/128.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io>)
 - [php黑魔法-moctf](<https://blog.csdn.net/xiaorouji/article/details/79602713>)
