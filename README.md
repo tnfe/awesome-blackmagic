@@ -45,14 +45,14 @@
 
 
 ## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/blue.png" width="35" id="blue" style="margin-right:5px; vertical-align:middle;">蓝魔法：
-- [使用angular-messages进行表单验证](http://www.lingdublog.cc/384.html)
+- [Redux 的黑魔法](<https://my.oschina.net/yinyongcom666/blog/648423>)
 - [【webpack 黑魔法】问题： vue-loader.conf.js 配置的 postcss 对外置 less 文件无效](https://zhuanlan.zhihu.com/p/28926961)
 - [Vue中你不知道但却很实用的黑科技](https://segmentfault.com/a/1190000007694540)
 - [Portal + SyntheticEvent + Iframe](https://blog.crimx.com/2018/07/15/react-dark-magic-portal-synthetic-event-iframe/)
 - [Deep In React（五）setState中的黑魔法](https://hateonion.me/posts/19jan14/)
 - [react-redux生产环境追踪action,state流的黑魔法](http://ju.outofmemory.cn/entry/344147)
-- [React Loadable](https://www.jianshu.com/p/462bb9d1c982)
-- [AngularJS-scope继承](https://blog.csdn.net/dm_vincent/article/details/51613496)
+- [Angular Query黑魔法](https://segmentfault.com/a/1190000013036283)
+- [关于 ReactJS 生命周期以外的性能提升奇技淫巧](<https://blog.csdn.net/qq_42494205/article/details/85045727>)
 - [Vue的奇技淫巧](https://blog.asaki.me/2018/04/09/)
 - [Redux 的黑魔法](https://my.oschina.net/yinyongcom666/blog/648423)
 
