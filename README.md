@@ -96,6 +96,7 @@
 - [AlloyDesigner - 前端开发工具](http://chromecj.com/web-development/2019-04/2189.html)
 - [Git多项目管理](https://www.jianshu.com/p/284ded3d191b)
 - [Web调试工具Charles](https://juejin.im/post/5a3b6ab06fb9a0452405fffa#heading-1)
+- [一键部署工具](https://github.com/TencentCloudBase/cloudbase-framework)
 
 ## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/yellow.png" width="35" id="yellow" style="margin-right:5px; vertical-align:middle;">黄魔法：
 
