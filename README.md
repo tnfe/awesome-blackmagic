@@ -34,7 +34,7 @@
 
 ## 
 ## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/black.png" width="35" id="black" style="margin-right:5px; vertical-align:middle;">黑魔法：
-- [JavaScript奇技淫巧45招](http://blog.nokey.me/2015/01/07/JavaScript%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A745%E6%8B%9B/)
+- [JavaScript奇技淫巧45招](https://www.jianshu.com/p/39a90f60c276)
 - [使用atob解码utf-8字符](http://levy.work/2017-03-24-black-magic-js-atob-with-utf8/)
 - [调试黑魔法](<https://juejin.im/post/5c9bce616fb9a070ac66b700>)
 - [JS黑魔法之this, setTimeout/setInterval, arguments](https://www.cnblogs.com/joyeecheung/p/4018212.html)
