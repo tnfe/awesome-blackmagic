@@ -40,12 +40,16 @@
 - [JS黑魔法之this, setTimeout/setInterval, arguments](https://www.cnblogs.com/joyeecheung/p/4018212.html)
 - [为什么等于10？](<https://blog.csdn.net/bug_zero/article/details/54142159>)
 - [setTimeout 的黑魔法](http://web.jobbole.com/86022/)
+- [typescript泛型与类型黑魔法](https://juejin.cn/post/6919359418505609230)
 - [拿Proxy可以做哪些有意思的事儿](https://segmentfault.com/a/1190000015009255)
 - [适配器在JavaScript中的体现](https://segmentfault.com/a/1190000016453875)
 - [JAVASCRIPT 的黑魔法 JSFUCK](<http://www.zoopaper.com/?p=418>)
 - [JS无形装逼，最为致命](<https://juejin.im/post/5cc55eb5e51d456e577f93f0>)
 - [JavaScript黑魔法jother编码之谜](<http://www.jwsblog.com/archives/43.html>)
 - [V8源码边缘试探-黑魔法指针偏移](<http://www.fdlly.com/p/1450821097.html>)
+- [TS 标称类型介绍及社区实现](https://jishuin.proginn.com/p/763bfbd73d3b)
+- [一些js的黑魔法集合](https://segmentfault.com/a/1190000039159139)
+- [JavaScript 有什么奇技淫巧？](https://www.zhihu.com/question/27428135)
 
 
 ## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/blue.png" width="35" id="blue" style="margin-right:5px; vertical-align:middle;">蓝魔法：
@@ -59,6 +63,9 @@
 - [关于 ReactJS 生命周期以外的性能提升奇技淫巧](<https://blog.csdn.net/qq_42494205/article/details/85045727>)
 - [Vue的奇技淫巧](https://blog.asaki.me/2018/04/09/)
 - [Redux 的黑魔法](https://my.oschina.net/yinyongcom666/blog/648423)
+- [React Hooks 奇技淫巧 —— 副作用, 闭包 与 Timer](https://juejin.cn/post/6926517169601642503)
+- [React 奇技淫巧 - defaultValue 和虚拟 dom diff 算法实现表单重置](https://segmentfault.com/a/1190000009481844)
+- [is属性用法 vue_Vue 动态样式黑魔法](https://blog.csdn.net/weixin_31321361/article/details/112495196)
 
 ## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/green.png" width="35" id="green"  style="margin-right:5px; vertical-align:middle;">绿魔法：
 
