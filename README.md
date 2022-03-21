@@ -54,27 +54,38 @@
 
 ## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/blue.png" width="35" id="blue" style="margin-right:5px; vertical-align:middle;">蓝魔法：
 - [Redux 的黑魔法](<https://my.oschina.net/yinyongcom666/blog/648423>)
-- [【webpack 黑魔法】问题： vue-loader.conf.js 配置的 postcss 对外置 less 文件无效](https://zhuanlan.zhihu.com/p/28926961)
+- [vue.js有哪些奇技淫巧？](https://www.zhihu.com/question/39599137)
+- [Vue 动态样式黑魔法（超实用）](https://zhuanlan.zhihu.com/p/92405416)
 - [Vue中你不知道但却很实用的黑科技](https://segmentfault.com/a/1190000007694540)
+- [React高级玩家指南](https://juejin.cn/post/6874615753174155272)
 - [Portal + SyntheticEvent + Iframe](https://blog.crimx.com/2018/07/15/react-dark-magic-portal-synthetic-event-iframe/)
 - [Deep In React（五）setState中的黑魔法](https://hateonion.me/posts/19jan14/)
 - [react-redux生产环境追踪action,state流的黑魔法](http://ju.outofmemory.cn/entry/344147)
 - [Angular Query黑魔法](https://segmentfault.com/a/1190000013036283)
+- [Vue中你不知道但却很实用的黑科技](https://juejin.cn/post/6844903455945916423)
 - [关于 ReactJS 生命周期以外的性能提升奇技淫巧](<https://blog.csdn.net/qq_42494205/article/details/85045727>)
 - [Vue的奇技淫巧](https://blog.asaki.me/2018/04/09/)
+- [React高级特性解析](https://zhuanlan.zhihu.com/p/149646352)
 - [Redux 的黑魔法](https://my.oschina.net/yinyongcom666/blog/648423)
 - [React Hooks 奇技淫巧 —— 副作用, 闭包 与 Timer](https://juejin.cn/post/6926517169601642503)
 - [React 奇技淫巧 - defaultValue 和虚拟 dom diff 算法实现表单重置](https://segmentfault.com/a/1190000009481844)
 - [is属性用法 vue_Vue 动态样式黑魔法](https://blog.csdn.net/weixin_31321361/article/details/112495196)
+- [vue3组件高级补充](https://juejin.cn/post/6999131418731233287)
+- [Vue3-Composition API--高级篇-](http://www.4k8k.xyz/article/weixin_45747310/119846386)
 
 ## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/green.png" width="35" id="green"  style="margin-right:5px; vertical-align:middle;">绿魔法：
 
 - [nodeJS之crypto模块公钥加密及解密](https://www.cnblogs.com/tugenhua0707/p/9131342.html)
+- [你应该知道的 Next.js 高级技巧 10 点](https://juejin.cn/post/6999966838780067853)
 - [在 NodeJS 中正确关闭浏览器](https://github.com/fool2fish/blog/issues/8)
+- [5个提高Node.js应用性能的技巧](https://www.html.cn/web/node-js/20388.html)
+- [Nodejs在实现中用了哪些奇技淫巧？](https://juejin.cn/post/6844903592521007111)
 - [前后分离的架构以及Node在其中的作用](https://limu.iteye.com/blog/2042700)
 - [Node黑魔法之无痛用上多线程](https://zhuanlan.zhihu.com/p/35353355)
 - [Nodejs优化的小小黑科技](https://juejin.im/post/584e74b5128fe10058b2aa6b)
+- [让你 nodejs 水平暴增的 debugger 技巧](https://juejin.cn/post/6981820158046109703)
 - [Nodejs技巧之----Joi数据校验](https://www.jianshu.com/p/e6e277c1fda2)
+- [nodejs代码执行绕过的一些技巧汇总](https://www.jb51.net/article/210910.htm)
 - [node.js cluster多进程、负载均衡和平滑重启](https://www.cnblogs.com/kenkofox/p/5431643.html)
 
 ## <img src="https://raw.githubusercontent.com/Tnfe/awesome-blackmagic/master/assets/red.png" width="35" id="red" style="margin-right:5px; vertical-align:middle;">红魔法：
